@@ -53,7 +53,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thanhhikr2504/thanhhikr2504/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thanhhikr2504/thanhhikr2504/output/github-contribution-grid-snake.svg">
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/thanhhikr2504/thanhhikr2504/output/github-contribution-grid-snake.svg">
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/thanhhikr2504/thanhhikr2504/output/github-contribution-grid-snake-dark.svg">
 </picture>
 
 <br/>
