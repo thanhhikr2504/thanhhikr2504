@@ -1,56 +1,36 @@
-<!-- Profile README - Tran Tat Thanh -->
-
 <div align="center">
 
-```
- _____ _   _   ___   _   _  _   _ _____ _____ 
-|_   _| | | | / _ \ | \ | || | | |_   _|_   _|
-  | | | |_| |/ /_\ \|  \| || |_| | | |   | |  
-  | | |  _  ||  _  || . ` ||  _  | | |   | |  
-  | | | | | || | | || |\  || | | | | |   | |  
-  \_/ \_| |_/\_| |_/\_| \_/\_| |_/ \_/   \_/  
-```
+# Tran Tat Thanh
 
-**`> Tran Tat Thanh`** &nbsp;|&nbsp; Fullstack Developer &nbsp;|&nbsp; 🇻🇳 Vietnam
+**Fullstack Developer** &nbsp;·&nbsp; 🇻🇳 Vietnam
 
-![Status](https://img.shields.io/badge/status-open%20to%20work-00ff41?style=flat-square&labelColor=0d1117&color=00ff41)
-![Profile Views](https://komarev.com/ghpvc/?username=thanhhikr2504&style=flat-square&color=00fff9&labelColor=0d1117)
+![Status](https://img.shields.io/badge/status-open%20to%20work-2da44e?style=flat-square&labelColor=f6f8fa)
+![Profile Views](https://komarev.com/ghpvc/?username=thanhhikr2504&style=flat-square&color=586069&labelColor=f6f8fa)
 
 </div>
 
 ---
 
-## `// frontend`
+**Frontend**
 
-![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=00fff9)
-![Vue.js](https://img.shields.io/badge/Vue.js-0d1117?style=flat-square&logo=vuedotjs&logoColor=82aaff)
-![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=82aaff)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0d1117?style=flat-square&logo=tailwindcss&logoColor=00fff9)
+![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61dafb)
+![Vue.js](https://img.shields.io/badge/Vue.js-20232a?style=flat-square&logo=vuedotjs&logoColor=4fc08d)
+![TypeScript](https://img.shields.io/badge/TypeScript-20232a?style=flat-square&logo=typescript&logoColor=3178c6)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-20232a?style=flat-square&logo=tailwindcss&logoColor=38bdf8)
 
-## `// backend`
+**Backend**
 
-![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=00ff41)
-![NestJS](https://img.shields.io/badge/NestJS-0d1117?style=flat-square&logo=nestjs&logoColor=00ff41)
-![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=c792ea)
-![REST API](https://img.shields.io/badge/REST_API-0d1117?style=flat-square&logo=fastapi&logoColor=f78c6c)
+![Node.js](https://img.shields.io/badge/Node.js-20232a?style=flat-square&logo=nodedotjs&logoColor=6da55f)
+![NestJS](https://img.shields.io/badge/NestJS-20232a?style=flat-square&logo=nestjs&logoColor=e0234e)
+![Python](https://img.shields.io/badge/Python-20232a?style=flat-square&logo=python&logoColor=3670a0)
+![REST API](https://img.shields.io/badge/REST_API-20232a?style=flat-square&logo=fastapi&logoColor=009688)
 
-## `// infra & data`
+**Infra & Data**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=82aaff)
-![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=00ff41)
-![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=00fff9)
-![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=f78c6c)
-
----
-
-## `// contact`
-
-| key | value |
-|-----|-------|
-| `github` | [@thanhhikr2504](https://github.com/thanhhikr2504) |
-| `location` | Vietnam 🇻🇳 |
-| `status` | open to work ✓ |
-| `collab` | open ✓ |
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-20232a?style=flat-square&logo=postgresql&logoColor=336791)
+![MongoDB](https://img.shields.io/badge/MongoDB-20232a?style=flat-square&logo=mongodb&logoColor=4ea94b)
+![Docker](https://img.shields.io/badge/Docker-20232a?style=flat-square&logo=docker&logoColor=0db7ed)
+![Git](https://img.shields.io/badge/Git-20232a?style=flat-square&logo=git&logoColor=f05032)
 
 ---
 
@@ -58,22 +38,26 @@
 
 ---
 
-## `// github stats`
-
 <div align="center">
 
-![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=thanhhikr2504&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00fff9&text_color=ffffff)
+![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=thanhhikr2504&layout=compact&theme=default&hide_border=true&title_color=24292f&text_color=57606a)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=thanhhikr2504&theme=tokyonight&hide_border=true&background=0d1117&ring=00fff9&fire=00ff41&currStreakLabel=00fff9)
+![GitHub Streak](https://streak-stats.demolab.com?user=thanhhikr2504&theme=default&hide_border=true&ring=24292f&fire=24292f&currStreakLabel=24292f)
 
 </div>
 
 ---
 
-## `// contribution snake 🐍`
+<div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thanhhikr2504/thanhhikr2504/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thanhhikr2504/thanhhikr2504/output/github-contribution-grid-snake.svg">
-  <img alt="snake animation" src="https://raw.githubusercontent.com/thanhhikr2504/thanhhikr2504/output/github-contribution-grid-snake-dark.svg">
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/thanhhikr2504/thanhhikr2504/output/github-contribution-grid-snake.svg">
 </picture>
+
+<br/>
+
+📍 Vietnam &nbsp;·&nbsp; 💼 Open to work &amp; collaboration &nbsp;·&nbsp; 🐙 [@thanhhikr2504](https://github.com/thanhhikr2504)
+
+</div>
