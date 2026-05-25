@@ -14,10 +14,10 @@ jobs:
       - uses: Platane/snk@v3
         with:
           github_user_name: thanhhikr2504
-         outputs: |
-          dist/github-contribution-grid-snake.svg?color_snake=00b4d8&color_dots=#caf0f8,#90e0ef,#00b4d8,#0077b6,#03045e
-          dist/github-contribution-grid-snake-dark.svg?color_snake=00b4d8&color_dots=#023e8a,#0077b6,#0096c7,#00b4d8,#48cae4&color_empty=#0d1117
-            
+          outputs: |
+            dist/github-contribution-grid-snake.svg?color_snake=#00b4d8&color_dots=#caf0f8,#90e0ef,#00b4d8,#0077b6,#03045e
+            dist/github-contribution-grid-snake-dark.svg?color_snake=#00b4d8&color_dots=#023e8a,#0077b6,#0096c7,#00b4d8,#48cae4&color_empty=#0d1117
+
       - uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
