@@ -28,8 +28,9 @@ I'm a Fullstack Developer who enjoys building clean, efficient web applications 
 ---
 
 *"Code is like humor. When you have to explain it, it's bad."*
+
 ## 🐍 Contribution Snake
 
-![snake dark](https://github.com/thanhhikr2504/thanhhikr2504/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![snake light](https://github.com/thanhhikr2504/thanhhikr2504/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![snake](https://github.com/thanhhikr2504/thanhhikr2504/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![snake](https://github.com/thanhhikr2504/thanhhikr2504/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
       
