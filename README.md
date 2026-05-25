@@ -31,6 +31,9 @@ I'm a Fullstack Developer who enjoys building clean, efficient web applications 
 
 ## 🐍 Contribution Snake
 
-![snake](https://github.com/thanhhikr2504/thanhhikr2504/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![snake](https://github.com/thanhhikr2504/thanhhikr2504/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thanhhikr2504/thanhhikr2504/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thanhhikr2504/thanhhikr2504/output/github-contribution-grid-snake.svg">
+  <img alt="snake animation" src="https://raw.githubusercontent.com/thanhhikr2504/thanhhikr2504/output/github-contribution-grid-snake.svg">
+</picture>
       
