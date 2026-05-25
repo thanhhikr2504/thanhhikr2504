@@ -30,11 +30,7 @@ I'm a Fullstack Developer who enjoys building clean, efficient web applications 
 ## 📊 GitHub Stats
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=thanhhikr2504&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00fff9&icon_color=00ff41&text_color=ffffff)
-
 ![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=thanhhikr2504&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00fff9&text_color=ffffff)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=thanhhikr2504&theme=tokyonight&hide_border=true&background=0d1117&ring=00fff9&fire=00ff41&currStreakLabel=00fff9)
 
 </div>
